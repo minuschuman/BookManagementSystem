@@ -26,7 +26,7 @@
         <lable>Email</lable><br/>
           <input type="email" name="mail" required><br/>
         <lable>Mobile</lable><br/>
-          <input type="number" name="mob" required><br
+          <input type="number" name="mob" required><br>
         <lable>Username</lable><br/>
           <input type="text" name="uname" required><br/>
         <lable>Password</lable><br/>

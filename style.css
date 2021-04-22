@@ -1,0 +1,57 @@
+body{
+  background-color: silver;
+}
+/***************************menu******************/
+#menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+#menu li {
+  float: left;
+}
+
+#menu li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ #menu li a:hover {
+  background-color: red;
+}
+/******************table******************/
+table {
+border-collapse: collapse;
+width:90%;
+margin: 10px 10px 10px 5%;
+border: solid 1px;
+padding: 0px;
+}
+
+table td {
+border: 1px solid black;
+text-align: center;
+height: 35px;
+  background: white;
+}
+/*
+table tr:nth-child(odd) {
+  background: white;
+}
+
+table tr:nth-child(even) {
+  background: pink;
+}*/
+
+table tr th{
+  border-bottom: 1px solid;
+  border-left: 1px solid;
+  height: 50px;
+  background-color: skyblue;
+}

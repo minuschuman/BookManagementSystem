@@ -21,15 +21,15 @@
       <form method="POST" action="user-entry.php">
         <lable>Firstname</lable><br/>
           <input type="text" name="fname" required><br/>
-        <lable>Lastname</laqble><br/>
+        <lable>Lastname</lable><br/>
           <input type="text" name="lname" required><br/>
-        <lable>Email</laqble><br/>
+        <lable>Email</lable><br/>
           <input type="email" name="mail" required><br/>
-        <lable>Mobile</laqble><br/>
+        <lable>Mobile</lable><br/>
           <input type="number" name="mob" required><br
-        <lable>Username</laqble><br/>
+        <lable>Username</lable><br/>
           <input type="text" name="uname" required><br/>
-        <lable>Password</laqble><br/>
+        <lable>Password</lable><br/>
            <input type="password" id="pass1" name="pass1" required><br/>
          <lable>Conform Password</laqble><br/>
            <input type="Password" id="pass2" name="pass2" required><br/>

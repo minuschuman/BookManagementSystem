@@ -39,7 +39,7 @@ require_once("admincheck.php");
           <input type="text" name="bname" placeholder="Book title" required><br/>
           <input type="text" name="category" placeholder="Category"><br/>
           <input type="number" name="year" required placeholder="Year of publish"><br/>
-          <input required="" type="adate" placeholder="Date arrived" onfocus="(this.type='date')"/><br/>
+          <input required="" name="adate" placeholder="Date arrived" onfocus="(this.type='date')"/><br/>
           <input type="text" name="price" placeholder="Price"><br/>
           <input type="number" name="num" required placeholder="Quantity"><br/>
         <input type="submit" value = "+ Add">

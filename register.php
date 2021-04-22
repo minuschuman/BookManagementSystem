@@ -31,7 +31,7 @@
           <input type="text" name="uname" required><br/>
         <lable>Password</lable><br/>
            <input type="password" id="pass1" name="pass1" required><br/>
-         <lable>Conform Password</lable><br/>
+         <lable>Confirm Password</lable><br/>
            <input type="Password" id="pass2" name="pass2" required><br/>
        <input type="submit" value = "add">
      </form>
